@@ -4,8 +4,12 @@
    
 }
 
+
 .inter{
   font-family: "Inter", sans-serif;
+  
+  font-style: normal;
+ 
 }
 
 header nav{
@@ -119,9 +123,9 @@ nav ul a{
     background-color: #789585;
 }
 .card-container{
- width: 71%;
+ width: 76%;
     max-width: 1600px;
-    margin: auto;
+    margin: 0 auto;
 }
 .card-section .card-section-heading {
     text-align: center;
@@ -226,6 +230,7 @@ nav ul a{
     margin: 10px;
     background-color: #F7F6F2;
     border-radius: 15px;
+    margin: 0 auto;
 }
 
 .think-section .think-container h1{
@@ -237,3 +242,38 @@ nav ul a{
    color:#627382;
 }
 
+footer{
+    background-color: #001931;
+}
+.footer-container{
+    width: 76%;
+    max-width: 1340px;
+    margin: 0 auto;
+    padding: 100px;
+    display: flex;
+    justify-content: space-around;
+    gap: 700px;
+}
+
+.footer-container h5{
+    font-size: 18px;
+    color: white;
+    margin-bottom: 20px;
+}
+.footer-container img{
+    margin-right: 10px;
+}
+
+.copyright p{
+    color: #FAFAFA;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+hr{
+    width: 76%;
+    max-width: 1340px;
+    margin: 0 auto;
+   
+    
+}

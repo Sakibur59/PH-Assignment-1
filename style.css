@@ -25,6 +25,7 @@ nav ul a{
     text-decoration: none;
     color: black;
     font-weight: 500;
+    
 }
 
 .btn{
@@ -38,3 +39,67 @@ nav ul a{
     border: none;
 }
 
+.banner{
+    padding: 300px;
+    background-image:url("assets/hero-bg.png");
+    max-width: 1600px;
+    background-repeat: no-repeat;
+    
+}
+
+.banner .hero-section{
+  
+   text-align: center;
+}
+.banner .hero-section .text{
+   padding: 7px;
+    color: #469165;
+    font-weight: 600;
+    border-radius: 1010px ;
+    background-color: white;
+}
+
+.banner .hero-section .circle{
+    margin-bottom: 15px;
+}
+
+.banner .hero-section .banner-details .first-h1{
+   font-size: 75px;
+   font-weight: bold;
+   line-height: 72px;
+   color: #FFFFFF;
+}
+.banner .hero-section .banner-details .second-h1{
+   font-size: 75px;
+   font-weight: bold;
+   line-height: 72px;
+   color:#30B868;
+   margin-bottom: 16px;
+}
+.banner .hero-section .banner-details p{
+    color: #FFFFFF;
+    line-height: 35px;
+    font-size: 18px;
+    margin-bottom: 10px;
+
+}
+.btn1{
+    background-color: #469165;
+    font-weight: 600;
+    font-size: 15px;
+    color: white;
+    margin: 10px;
+    padding: 16px;
+    border-radius: 5px;
+    border: none;
+}
+.btn2{
+    background: none;
+    font-weight: 600;
+    font-size: 15px;
+    color: white;
+    margin: 10px;
+    padding: 16px;
+    border-radius: 5px;
+    border-color: #FFFFFF;
+}

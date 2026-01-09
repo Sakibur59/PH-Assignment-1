@@ -219,4 +219,21 @@ nav ul a{
     margin:5px;
 }
 
+.think-section{
+    max-width: 1360px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    background-color: #F7F6F2;
+    border-radius: 15px;
+}
+
+.think-section .think-container h1{
+    margin-top: 75px;
+    margin-bottom: 20px;
+}
+ .think-container p{
+   margin-bottom: 30px;
+   color:#627382;
+}
 
